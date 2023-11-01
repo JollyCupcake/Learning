@@ -1,5 +1,7 @@
 Testing line
+
 another line added in the remote repository
+and this line is another line being added locally
 
 Commit test
 Added new information 456
